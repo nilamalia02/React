@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "nilaa3794@gmail.com",
+      "password": "nilaa3794",
+      "role_id": 2
+    },
+    {
+      "id": 2,
+      "email": "noga123@gmail.com",
+      "password": "noga123",
+      "role_id": 1
+    },
+    {
+      "id": 3,
+      "email": "tharix32@gmail.com",
+      "password": "tharix32",
+      "role_id": 1
+    },
+    {
+      "id": 4,
+      "email": "ezza345@gmail.com",
+      "password": "ezza345",
+      "role_id": 1
+    },
+    {
+      "id": 5,
+      "email": "ibnu098@gmail.com",
+      "password": "ibnu098",
+      "role_id": 1
+    }
+  ],
+  "courses": [
+    {
+      "id": 543,
+      "detail_user_id": 123,
+      "photo": "https://media.istockphoto.com/photos/asian-malay-woman-with-dental-braces-confidently-presenting-to-her-picture-id1329317946?b=1&k=20&m=1329317946&s=170667a&w=0&h=RiXKfgyltOq7lgphQKNDyARqOL_N_OAAdJH3lfmb-J0=",
+      "title": "maind blowing",
+      "course_type_id": 1,
+      "price": "200.000",
+      "discount": "10",
+      "created_at": "2020-05-05",
+      "benefit": "this is the benefit of the course"
+    },
+    {
+      "id": 432,
+      "detail_user_id": 234,
+      "photo": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNvdXJzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "motivation",
+      "course_type_id": 2,
+      "price": "300.000",
+      "discount": "10",
+      "created_at": "2020-05-05",
+      "benefit": "this is the benefit of the course"
+    },
+    {
+      "id": 321,
+      "detail_user_id": 345,
+      "photo": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "title": "love self",
+      "course_type_id": 3,
+      "price": "250.777",
+      "discount": "10",
+      "created_at": "2020-05-05",
+      "benefit": "this is the benefit of the course"
+    },
+    {
+      "id": 321,
+      "detail_user_id": 345,
+      "photo": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "title": "love self",
+      "course_type_id": 3,
+      "price": "250.777",
+      "discount": "10",
+      "created_at": "2020-05-05",
+      "benefit": "this is the benefit of the course"
+    },
+    {
+      "id": 321,
+      "detail_user_id": 345,
+      "photo": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "title": "love self",
+      "course_type_id": 3,
+      "price": "250.777",
+      "discount": "10",
+      "created_at": "2020-05-05",
+      "benefit": "this is the benefit of the course"
+    }
+  ],
+  "detail user": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "name": "nila amalia",
+      "gender": "p",
+      "date_birth": "16/12/2002",
+      "phone": "082223949865",
+      "photo": "",
+      "address": "pm",
+      "work_address": "poliye",
+      "practice_place_address": "gedungTI",
+      "office_phone_number": "000",
+      "is_verified": 99
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "name": "noga mukti wati",
+      "gender": "p",
+      "date_birth": "1/1/2002",
+      "phone": "082223949866",
+      "photo": "",
+      "address": "ponorogo",
+      "work_address": "poliye",
+      "practice_place_address": "gedungTI",
+      "office_phone_number": "000",
+      "is_verified": 99
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "name": "tharixx",
+      "gender": "L",
+      "date_birth": "2/2/2002",
+      "phone": "082223949867",
+      "photo": "",
+      "address": "tangguls",
+      "work_address": "poliye",
+      "practice_place_address": "gedungTI",
+      "office_phone_number": "000",
+      "is_verified": 99
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "name": "ibnu ",
+      "gender": "L",
+      "date_birth": "16/12/2002",
+      "phone": "082223949865",
+      "photo": "",
+      "address": "pm",
+      "work_address": "poliye",
+      "practice_place_address": "gedungTI",
+      "office_phone_number": "000",
+      "is_verified": 99
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "name": "nila amalia",
+      "gender": "p",
+      "date_birth": "16/12/2002",
+      "phone": "082223949865",
+      "photo": "",
+      "address": "pm",
+      "work_address": "poliye",
+      "practice_place_address": "gedungTI",
+      "office_phone_number": "000",
+      "is_verified": 99
+    }
+  ]
+}
