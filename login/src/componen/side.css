@@ -1,0 +1,66 @@
+.uptext {
+  color: white;
+  position: absolute;
+  width: 108px;
+  height: 36px;
+  left: 50px;
+  top: 50px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: "Poppins";
+}
+
+#title,
+#desc {
+  color: white;
+  text-align: left;
+}
+
+#desc {
+  font-size: inherit;
+}
+.Header {
+  position: absolute;
+  width: 500px;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  /* font-family: 'Poppins'; */
+  background: linear-gradient(180deg, #32df2e 0%, #20c41d 100%);
+}
+.side-title {
+  margin-top: 500px;
+  margin-left: 50px;
+  margin-right: 75px;
+}
+
+.icons {
+  color: white;
+  margin-top: 15px;
+}
+
+#tw {
+  margin-left: 10px;
+   width: 30px;
+  height: auto;
+}
+#fb {
+  margin-left: 10px;
+   width: 30px;
+  height: auto;
+}
+
+#ig {
+  margin-left: 10px;
+  width: 30px;
+  height: auto;
+}
+
+#ketentuan {
+  text-align: left;
+  color: #ffffff;
+  font-weight: lighter;
+  font-size: smaller;
+  margin-top: 100px;
+}

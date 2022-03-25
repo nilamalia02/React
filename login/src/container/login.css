@@ -1,0 +1,16 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.col-4 {
+  background-image: linear-gradient(#32df2e, #20c31d);
+}
+
+.col {
+  position: absolute;
+  width: 592px;
+  height: 67px;
+  left: 750px;
+  top: 200px;
+  /* font-family: 'Poppins'; */
+}
