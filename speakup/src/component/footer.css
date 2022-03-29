@@ -1,0 +1,43 @@
+#footer {
+    background-color: #3760CA;
+}
+
+#footer-app-title  {
+    font-weight: bold;
+    color: white;
+}
+
+#footer-app-subtitle {
+    color: white;
+}
+
+#footer-app-desc {
+    color: white;
+}
+
+#company {
+    color: white;
+}
+
+#policy {
+    color: white;
+}
+
+#contacts {
+    color: white;
+}
+
+#ig {
+    height: 25px;
+    color: white;
+}
+
+#yt {
+    height: 25px;
+    color: white;
+}
+
+#fb {
+    height: 25px;
+    color: white;
+}
