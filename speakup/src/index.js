@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Landing from "./page/landing";
+import Card from "./component/card";
 
 ReactDOM.render(
   <React.StrictMode>
