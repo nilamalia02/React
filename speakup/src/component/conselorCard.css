@@ -1,0 +1,9 @@
+.conCard {
+  width: 500px;
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.conImg {
+}
