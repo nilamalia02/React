@@ -1,0 +1,29 @@
+
+.nav{
+    width: 100%;
+    height: 65px;
+    background-color: #e8eaec;
+    position: fixed;
+    font-family: poppins;
+} 
+.img{
+    width: 146px;
+    height: 65px;
+    object-position: 5px;
+    object-fit: none;
+}
+.button{
+    width: 199px;
+    height: 56px;
+    background-color: #3760CA;
+    border:#e8eaec;
+    border-radius: 10px;
+    font-family: poppins;
+    font-size: 24px;
+}
+.menu{
+    width: 20px;
+    height: 20px;
+    font-family: poppins;
+   
+}
