@@ -6,16 +6,16 @@ import "./navbar.css";
 import { useState } from "react";
 
 const Navbar = () => {
-  // const [nav, setnav] = useState(false);
-  // const changeBackground = () => {
-  //   if(window.scrollY >= 50) {
-  //     setnav(true);
-  //   }
-  //   else {
-  //     setnav(false);
-  //   }
-  // }
-  // window.addEventListener("scroll", changeBackground);
+  const [nav, setnav] = useState(false);
+  const changeBackground = () => {
+    if(window.scrollY >= 50) {
+      setnav(true);
+    }
+    else {
+      setnav(false);
+    }
+  }
+  window.addEventListener("scroll", changeBackground);
   return(
     <div className="container-fluid">
       <header className="nav">
