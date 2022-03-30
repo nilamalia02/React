@@ -5,10 +5,11 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Landing from "./page/landing";
+import Navbar from "./component/navbar";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Landing />
+    <Navbar />
   </React.StrictMode>,
   document.getElementById("root")
 );
