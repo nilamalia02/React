@@ -20,7 +20,7 @@ const Navbar = () => {
   return(
     <div className="container-fluid">
       <header className="nav">
-        <div className="img">
+        <div className="imgs">
           <img src={speakup}/>
           </div>
 
@@ -42,6 +42,6 @@ const Navbar = () => {
       </body>
     </div>
   )
-  }
+  };
 export default Navbar;
 
